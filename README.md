@@ -33,7 +33,7 @@ Developed collaboratively by the FDSS Web Development Team 2024.
 ![Homepage](screenshots/homepage.png)
 
 ### About
-![About](screenshots/About.png)
+![About](screenshots/about.png)
 
 ### Events Section
 ![Events](screenshots/events.png)
