@@ -27,6 +27,22 @@ Served as **Vice Head of Web Development** for the FAST Data Science Society (FD
 
 Developed collaboratively by the FDSS Web Development Team 2024.
 
+## 🎥 Demo Video
+
+Watch the full website demonstration here:
+
+[FAST Data Science Society (FDSS) 2024 Website Demo](https://www.youtube.com/watch?v=GDctCJEShRE)
+
+### Features Demonstrated
+
+* Responsive website design
+* Society information pages
+* Team and executive members section
+* Events and activities showcase
+* Navigation and user interface
+* Interactive front-end components
+
+
 ## Screenshots
 
 ### Homepage
