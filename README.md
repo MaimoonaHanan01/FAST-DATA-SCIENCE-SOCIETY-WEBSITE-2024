@@ -27,6 +27,20 @@ Served as **Vice Head of Web Development** for the FAST Data Science Society (FD
 
 Developed collaboratively by the FDSS Web Development Team 2024.
 
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### About
+![About](screenshots/About.png)
+
+### Events Section
+![Events](screenshots/events.png)
+
+### Team Section
+![Team](screenshots/team.png)
+
 ## License
 
 This project is intended for educational and organizational purposes.
